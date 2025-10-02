@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index_old",
+    "path": "/index_old",
+    "component": "/home/psserver/vgg-source/GA/rpa/pages/index_old.vue",
+    "chunkName": "pages/index_old",
+    "_name": "_7053061e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/psserver/vgg-source/GA/rpa/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1956b409"
+  }
+]
