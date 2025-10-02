@@ -733,7 +733,7 @@ async helpTransAutoProblem(target) {
     text,
     targetLangs: targetCodes.map(this.toApiLang), // map sang API
     model: 'qwen3-8b',
-    source: 'aw-rpa',
+    source: 'vg-rpa', 
   };
   const res = await this.$axios.post(this.NEW_TRANSLATE_API, payload, {
     headers: { 'Content-Type': 'application/json' },
